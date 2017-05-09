@@ -1,0 +1,19 @@
+{
+  "name": "alexa-nmh-trivia",
+  "version": "1.0.0",
+  "description": "An unofficial Alexa fact skill of the Northfield Mount Hermon college preparatory school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Amazon.com, with content by Brian Mikol",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}

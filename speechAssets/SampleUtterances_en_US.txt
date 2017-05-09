@@ -1,0 +1,27 @@
+GetNewFactIntent fact me
+GetNewFactIntent a fact
+GetNewFactIntent a n. m. h. fact
+GetNewFactIntent a northfield mount hermon fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a n. m. h. fact
+GetNewFactIntent tell me a northfield mount hermon fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a n. m. h. fact
+GetNewFactIntent give me a northfield mount hermon fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me n. m. h. trivia
+GetNewFactIntent tell me northfield mount hermon trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me n. m. h. trivia
+GetNewFactIntent give me northfield mount hermon trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some n. m. h. information
+GetNewFactIntent give me some information about n. m. h.
+GetNewFactIntent give me some northfield mount hermon information
+GetNewFactIntent give me some information about northfield mount hermon
+GetNewFactIntent tell me something
+GetNewFactIntent tell me something about n. m. h.
+GetNewFactIntent tell me something about northfield mount hermon
+GetNewFactIntent give me something
+GetNewFactIntent give me something about n. m. h.
+GetNewFactIntent give me something about northfield mount hermon
